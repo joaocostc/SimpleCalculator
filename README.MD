@@ -1,6 +1,6 @@
 # Calculadora Simples
 
-## 🖥️ Introdução
+## 📜 Introdução
 
 Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas, sendo uma atividade avaliativa da disciplina de Programação de Scripts. Essa tarefa proporcionou uma oportunidade valiosa para aplicar os conceitos que aprendi em programação em um projeto prático. O projeto consistiu em criar uma calculadora simples, focada em operações matemáticas básicas, o que me permitiu praticar minhas habilidades de resolução de problemas e pensamento algorítmico.
 
